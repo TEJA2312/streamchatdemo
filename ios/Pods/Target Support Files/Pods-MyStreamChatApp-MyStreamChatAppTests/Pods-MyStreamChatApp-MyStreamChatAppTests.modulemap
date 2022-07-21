@@ -1,0 +1,6 @@
+module Pods_MyStreamChatApp_MyStreamChatAppTests {
+  umbrella header "Pods-MyStreamChatApp-MyStreamChatAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
